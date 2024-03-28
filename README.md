@@ -6,7 +6,7 @@ Welcome to great examples from SAP about managing incidents that we can really m
 
 So lets consider this project as a great example to study SAP CAP for development on local machine using:
 
-* VS code studio as developemt tool.
+* VS code studio as development tool.
 * [caplukcadhf](https://github.com/lukcad/caplukcadhf) as a development container.
 * SAP BTP as a hana and xsuaa services for hybrid environment of our solution.
 
