@@ -25,7 +25,7 @@ So lets consider this project as a great example to study SAP CAP for developmen
 
  - Router server:
 
-  		cds bind --exec --npm start --prefix app/router
+  		cds bind --exec -- npm start --prefix app/router
 
 
    Locally in VS code you will be able to work with applicaiton via router server using endpoint:
